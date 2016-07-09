@@ -1,0 +1,30 @@
+ls *.jpg
+ls *.c
+git push
+exit
+sfhsklajhksjdhfkjfhklshflk fhslk heh fiwfhlsdkjfh usdfhsdjkfhwdkjsfhlksdfhjkhfjskfhkjhfklsadfjwfkrjgf,jsafhkadsfsf
+sfhsklajhksjdhfkjfhklshflk fhslk heh fiwfhlsdkjfh usdfhsdjkfhwdkjsfhlksdfhjkhfjskfhkjhfklsadfjwfkrjgf,jsafhkadsfsf
+cd hellocd hello
+cd
+cd cd
+exit
+cd
+cd
+kjfhskfhskjfhsjfjhhifh iuhvuchfexit
+cd
+cd
+kjfhskfhskjfhsjfjhhifh iuhvuchfexit
+exit
+ls
+exit
+ls
+mkdir hello
+exit
+mkdir help
+exit
+ls
+exit
+ls
+pwd
+mkdir hi
+exit

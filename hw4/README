@@ -1,0 +1,26 @@
+Group Name: JustDontDoIt
+Group Member 1: Miu Ki Yip
+            ID: 108776319
+Group Member 2: Yuanyuan Peng
+            ID: 108734720
+
+name, id, where errors might happen, and extra credit
+
+finished: 
+1) Basic cmd things : cd, cd w/dir, cd .., cd ., cd -, pwd, ls, mdir...
+2) Redirection <, > and < > work, cat works
+3) can print out the current path before 320sh>
+4) -d flag works(?) not sure
+5) Echo works
+6) set PATH works
+
+errors might happen:
+1) no piping 
+2) no job control
+3) i dont know what are the other errors, well we'll figure them out while grading them 
+
+Extra Creadit
+History works
+the cmd history and clear-history work
+can write history to a file after exit the program
+arrow keys up and down work

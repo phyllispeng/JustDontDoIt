@@ -1,0 +1,11 @@
+appends to end?
+exit
+ls -l
+hi
+love phyllis
+exit
+ABsfsadf
+ls
+cd ..
+eadfDDDCCCCDDDCCCCCCCDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+exit
